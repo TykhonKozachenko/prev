@@ -5,4 +5,5 @@
 -----
 
 #### [User stories](https://docs.google.com/document/d/1RAlGuF9qIJsiphK4oUUwDzDa_V3wGRJ5b6GKb5L9mrI/edit)
+#### [Test steps](https://docs.google.com/document/d/1A1C7o-CCeaPneFgif3Yd6kPf6Io5rP_RKqMKtNC5ioY/edit)
 #### [Negative testing for the scenarios](https://docs.google.com/document/d/15RMKMSXW5s9NsWrInGKoq_F1n9l1cAnRxjWteNlEbQg/edit?usp=sharing)
